@@ -1,0 +1,19 @@
+{
+  "name": "jm-template",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiamao/jm-template.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiamao/jm-template/issues"
+  },
+  "homepage": "https://github.com/jiamao/jm-template#readme"
+}
