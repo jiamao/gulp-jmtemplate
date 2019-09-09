@@ -1,6 +1,6 @@
 {
   "name": "gulp-jmtemplate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "微模板引擎gulp插件，支持预编译，多模板合并。",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jiamao/gulp-jmtemplate#readme",
   "dependencies": {
-    "jm-template": "^1.0.3"
+    "jm-template": "^1.0.5"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
